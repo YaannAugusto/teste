@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Barber Shop API\\BarberShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCB324D-F7E1-4E6C-90F7-8267DC086CE2}|BarberShop\\BarberShop.csproj|d:\\barber shop api\\barbershop\\barbershop\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCB324D-F7E1-4E6C-90F7-8267DC086CE2}|BarberShop\\BarberShop.csproj|solutionrelative:barbershop\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCB324D-F7E1-4E6C-90F7-8267DC086CE2}|BarberShop\\BarberShop.csproj|d:\\barber shop api\\barbershop\\barbershop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7FCB324D-F7E1-4E6C-90F7-8267DC086CE2}|BarberShop\\BarberShop.csproj|solutionrelative:barbershop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCB324D-F7E1-4E6C-90F7-8267DC086CE2}|BarberShop\\BarberShop.csproj|d:\\barber shop api\\barbershop\\barbershop\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7FCB324D-F7E1-4E6C-90F7-8267DC086CE2}|BarberShop\\BarberShop.csproj|solutionrelative:barbershop\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCB324D-F7E1-4E6C-90F7-8267DC086CE2}|BarberShop\\BarberShop.csproj|d:\\barber shop api\\barbershop\\barbershop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCB324D-F7E1-4E6C-90F7-8267DC086CE2}|BarberShop\\BarberShop.csproj|solutionrelative:barbershop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCB324D-F7E1-4E6C-90F7-8267DC086CE2}|BarberShop\\BarberShop.csproj|d:\\barber shop api\\barbershop\\barbershop\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCB324D-F7E1-4E6C-90F7-8267DC086CE2}|BarberShop\\BarberShop.csproj|solutionrelative:barbershop\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCB324D-F7E1-4E6C-90F7-8267DC086CE2}|BarberShop\\BarberShop.csproj|d:\\barber shop api\\barbershop\\barbershop\\migrations\\20241204233702_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCB324D-F7E1-4E6C-90F7-8267DC086CE2}|BarberShop\\BarberShop.csproj|solutionrelative:barbershop\\migrations\\20241204233702_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Barber Shop API\\BarberShop\\BarberShop\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "BarberShop\\WeatherForecast.cs",
+              "ToolTip": "D:\\Barber Shop API\\BarberShop\\BarberShop\\WeatherForecast.cs",
+              "RelativeToolTip": "BarberShop\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T02:21:36.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Barber Shop API\\BarberShop\\BarberShop\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BarberShop\\appsettings.Development.json",
+              "ToolTip": "D:\\Barber Shop API\\BarberShop\\BarberShop\\appsettings.Development.json",
+              "RelativeToolTip": "BarberShop\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-04T23:55:15.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Barber Shop API\\BarberShop\\BarberShop\\appsettings.json",
+              "RelativeDocumentMoniker": "BarberShop\\appsettings.json",
+              "ToolTip": "D:\\Barber Shop API\\BarberShop\\BarberShop\\appsettings.json",
+              "RelativeToolTip": "BarberShop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-04T23:43:54.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241204233702_FirstMigration.cs",
+              "DocumentMoniker": "D:\\Barber Shop API\\BarberShop\\BarberShop\\Migrations\\20241204233702_FirstMigration.cs",
+              "RelativeDocumentMoniker": "BarberShop\\Migrations\\20241204233702_FirstMigration.cs",
+              "ToolTip": "D:\\Barber Shop API\\BarberShop\\BarberShop\\Migrations\\20241204233702_FirstMigration.cs",
+              "RelativeToolTip": "BarberShop\\Migrations\\20241204233702_FirstMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T23:37:02.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\Barber Shop API\\BarberShop\\BarberShop\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "BarberShop\\Data\\DataContext.cs",
+              "ToolTip": "D:\\Barber Shop API\\BarberShop\\BarberShop\\Data\\DataContext.cs",
+              "RelativeToolTip": "BarberShop\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T23:34:25.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Barber Shop API\\BarberShop\\BarberShop\\Program.cs",
+              "RelativeDocumentMoniker": "BarberShop\\Program.cs",
+              "ToolTip": "D:\\Barber Shop API\\BarberShop\\BarberShop\\Program.cs",
+              "RelativeToolTip": "BarberShop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T23:33:45.607Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
